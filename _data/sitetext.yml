@@ -13,8 +13,6 @@ en: &DEFAULT_EN
   header:
     title: The Living Bridge
     text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
 
   portfolio:
     title: "Portfolio"
